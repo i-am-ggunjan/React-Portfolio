@@ -25,7 +25,7 @@ const Navigation = () => {
             <nav>
               <ul>
                 <li>
-                  <Link to={"/home"}>HOME</Link>
+                  <Link to={"/"}>HOME</Link>
                   <Link to={"/about"}>ABOUT</Link>
                   <Link to={"/portfolio"}>PORTFOLIO</Link>
                   <Link to={"/contact"}>CONTACT</Link>
